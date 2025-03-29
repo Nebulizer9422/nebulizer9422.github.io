@@ -10,21 +10,24 @@ Welcome to the repository for **Nebulizer9422.github.io**! This project hosts a 
 
 ## File Structure
 
-```
+```plaintext
+/assets/
+  └── images/          # Image assets
 /css
   └── styles.css       # Main stylesheet
 /js
   └── script.js        # JavaScript functionality
 /index.html            # Homepage of the website
-/assets/               # Images and other assets
 ```
 
 ## Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/nebulizer9422/nebulizer9422.github.io.git
    ```
+
 2. Open `index.html` in your browser to view the website.
 
 ## Contributing
